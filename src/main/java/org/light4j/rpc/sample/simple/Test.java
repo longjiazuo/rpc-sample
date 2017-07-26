@@ -8,6 +8,11 @@ import org.light4j.rpc.sample.simple.server.service.EchoService;
 import org.light4j.rpc.sample.simple.server.service.RpcExporter;
 import org.light4j.rpc.sample.simple.server.service.impl.EchoServiceImpl;
 
+/**
+ *测试类
+ *
+ * @author longjiazuo
+ */
 public class Test {
 	public static void main(String[] args) {
 		new Thread(new Runnable() {
