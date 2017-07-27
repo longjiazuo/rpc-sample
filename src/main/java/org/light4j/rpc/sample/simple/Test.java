@@ -9,7 +9,7 @@ import org.light4j.rpc.sample.simple.server.service.RpcExporter;
 import org.light4j.rpc.sample.simple.server.service.impl.EchoServiceImpl;
 
 /**
- *rpc测试类
+ *rpc启动测试类
  *
  * @author longjiazuo
  */
